@@ -14,7 +14,7 @@ Tech Stack:
 -File Storage: JSON files for tips and waiter data
 
 How to Use:
--Clone the repository: git clone https://github.com/yourusername/tip-tracker.git
+-Clone the repository: git clone https://github.com/MelusiMakola/tip-tracker.git
 -Navigate to the project directory: cd tip-tracker
 -Run the program: python tip_tracker.py
 
